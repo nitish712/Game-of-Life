@@ -1,0 +1,1 @@
+This is an interactive simulation of Game of Life. You just open the HTML file in any browser and put some initial live cells and hit start button. You will be able to see simulation which includes graphs, cell counts based on their age and lot more.
